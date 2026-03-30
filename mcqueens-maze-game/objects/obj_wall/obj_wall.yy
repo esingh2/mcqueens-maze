@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_road_trigger",
+  "name": "obj_wall",
   "spriteId": {
     "name": "spr_block",
     "path": "sprites/spr_block/spr_block.yy",
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }
