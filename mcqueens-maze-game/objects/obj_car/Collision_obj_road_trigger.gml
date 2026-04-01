@@ -1,7 +1,5 @@
-/// @DnDAction : YoYo Games.Paths.Start_Path
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
-/// @DnDHash : 3F17CB7C
-/// @DnDArgument : "path" "Path1"
-/// @DnDArgument : "relative" "true"
-/// @DnDSaveInfo : "path" "Path1"
-path_start(Path1, 1, path_action_stop, true);
+/// @DnDHash : 660C4667
+/// @DnDArgument : "direction" "315"
+direction = 315;
