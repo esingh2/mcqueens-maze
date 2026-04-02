@@ -9,6 +9,7 @@
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},"order":5,},
     {"id":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},"order":4,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":7,},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},"order":11,},
     {"id":{"name":"spr_car_down","path":"sprites/spr_car_down/spr_car_down.yy",},"order":0,},
     {"id":{"name":"spr_car_left","path":"sprites/spr_car_left/spr_car_left.yy",},"order":1,},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},"order":1,},
@@ -17,6 +18,7 @@
     {"id":{"name":"obj_crashed_car","path":"objects/obj_crashed_car/obj_crashed_car.yy",},"order":7,},
     {"id":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},"order":0,},
     {"id":{"name":"spr_car_right","path":"sprites/spr_car_right/spr_car_right.yy",},"order":2,},
+    {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},"order":1,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":2,},
     {"id":{"name":"obj_road_trigger","path":"objects/obj_road_trigger/obj_road_trigger.yy",},"order":4,},
     {"id":{"name":"spr_desert","path":"sprites/spr_desert/spr_desert.yy",},"order":6,},
@@ -42,6 +44,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":2,},
