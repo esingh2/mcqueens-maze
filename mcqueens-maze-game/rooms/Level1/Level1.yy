@@ -7,7 +7,7 @@
   "parentRoom": null,
   "views": [
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":4000,"hview":470,"xport":0,"yport":0,"wport":1800,"hport":930,"hborder":30,"vborder":30,"hspeed":10,"vspeed":10,"objectId":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},},
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":1920,"hview":1080,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":683,"vborder":384,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":1920,"hview":1080,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":683,"vborder":683,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
