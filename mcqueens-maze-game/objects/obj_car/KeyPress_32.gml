@@ -1,5 +1,25 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 18AB240E
+/// @DnDArgument : "spriteind" "spr_car_jump"
+/// @DnDSaveInfo : "spriteind" "spr_car_jump"
+sprite_index = spr_car_jump;
+image_index = 0;
+
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
+/// @DnDVersion : 1.1
+/// @DnDHash : 0AD5F671
+/// @DnDArgument : "direction" "270"
+direction = 270;
+
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 4D3C8342
-/// @DnDArgument : "speed" "10"
-speed = 10;
+/// @DnDHash : 4421B485
+/// @DnDArgument : "speed" "15"
+speed = 15;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 7F2FE82D
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 30);
