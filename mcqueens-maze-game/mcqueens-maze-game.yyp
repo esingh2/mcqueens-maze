@@ -4,6 +4,7 @@
   "name": "mcqueens-maze-game",
   "resources": [
     {"id":{"name":"spr_pothole","path":"sprites/spr_pothole/spr_pothole.yy",},"order":9,},
+    {"id":{"name":"spr_text","path":"sprites/spr_text/spr_text.yy",},"order":22,},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},"order":8,},
     {"id":{"name":"spr_car_jump","path":"sprites/spr_car_jump/spr_car_jump.yy",},"order":18,},
     {"id":{"name":"spr_crashed_car","path":"sprites/spr_crashed_car/spr_crashed_car.yy",},"order":10,},
