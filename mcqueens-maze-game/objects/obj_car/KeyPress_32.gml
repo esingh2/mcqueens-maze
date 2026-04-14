@@ -8,18 +8,13 @@ image_index = 0;
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
-/// @DnDHash : 0AD5F671
-/// @DnDArgument : "direction" "270"
-direction = 270;
-
-/// @DnDAction : YoYo Games.Movement.Set_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 4421B485
-/// @DnDArgument : "speed" "15"
-speed = 15;
+/// @DnDHash : 4E16FB0F
+/// @DnDArgument : "direction" "0"
+direction = 0;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 7F2FE82D
-/// @DnDArgument : "alarm" "1"
-alarm_set(1, 30);
+/// @DnDHash : 312239F4
+/// @DnDArgument : "steps" "70"
+/// @DnDArgument : "alarm" "2"
+alarm_set(2, 70);
