@@ -1,5 +1,11 @@
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
+/// @DnDVersion : 1.1
+/// @DnDHash : 0B5222D4
+/// @DnDArgument : "direction" "270"
+direction = 270;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 622CC2DD
-/// @DnDArgument : "steps" "5"
-alarm_set(0, 5);
+/// @DnDHash : 276457AC
+/// @DnDArgument : "speed" "7"
+speed = 7;
